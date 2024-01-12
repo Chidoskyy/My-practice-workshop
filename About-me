@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chidosky's Web Developement Journey</title>
+    </head>
+    <body>
+        <h1>MY Journey </h1>
+        <header>
+            <section>
+                <h2>Little preview about me.</h2>
+                <p>My name is Chidiebere Uduh though purpolarly known as Chidosky, a name that was giving to me during my childhood days.<br> After my secondary school I was encouraged by my father to learn a trade or skill first before futhering my education, a journey which I took and by the grace of God I am a professional <a href="https://www.collinsdictionary.com/dictionary/english/fitter">Fitter</a>with wealth of experienc spaning more than 10 years in oil and gas industry.<br>And right now it's about time I take another bold step to change my career which is <bold><a href="https://en.wikipedia.org/wiki/Web_development">WEB DEVELOPEMENT</a></bold></p>
+                <img src="http:IMG20231128123652.jpg" alt="my pictures">
+            </section>
+        </header>
+        <main>
+            <section>
+                <h2>What Changed my Mind</h2>
+                <p>Even though am a professional fitter I have always wanted to learn new skills, also with the depreciating effect of Nigerian economy and naira against dollar negative effect their was a need for me to take immediate and drastic action to savage what I knew was a doom waiting to happen.
+                <br><p>This are some the reasons why decided to change my career</p>
+                <ul>
+                    <li>The physical demanding of the Job</li>
+                    <li>Their were lots of profesional workers with litle opportuinities for them</li>
+                    <li>The job isn't as lucrative as I thougth as people were been under paid badly</li>
+                    <li>The hazadous nature of the job</li>
+                    <li>Most fitting jobs are short term contracts</li>
+                </ul>
+                <p>After much consideration I took the bold step </p>
+                <p>First of all in 2016 I did venture into forex trading which didn't go well as I lost 200 Dollars in the first two months reason being that trading is about prediction using graphs and past outcome something that I felt is based on luck.<br>In late 2019 I moved into betting spending close to a million naira seeting up a beeting shop which as at then wasn't was giving me low profit until covid-19 pandemic came and made it worse</p>
+                <p>All this while that I was struggling I have a friend Chioma whom I met long time ago at one of the locations I worked a good soul on that matter, she is a software developer seeing how well she is  doing I developed a likeness for this skill. I stated making some reasearch in secret espercially what tools and skills I need to posses before embarking on this journey.<br>I reached out to her and with her advice and mentorship I am now learning web Developement</p>
+                <p>This are my activities during the week on how i learn</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Days of the week</th>
+                            <th>My activities</th>
+                            <th>Hours spent</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Monday</td>
+                            <td>Intro to HTML</td>
+                            <td>2 hours</td>
+                        </tr>
+                        <tr>
+                            <td></td>Tuesday</td>
+                            <td>learning of table</td>
+                            <td>3 hours</td>
+                        </tr>
+                    </tbody>
+                    <tr>
+
+                    </tr>
+                </table>
+            </section>
+
+        </main>
+    </body>
+</html>
